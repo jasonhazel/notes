@@ -13,3 +13,6 @@
 | Blackpill | STM |     |     |     | No |
 | KB2040 | RP2040 |     |     |     | Yes |
 | Blok | RP2040 |       |     |     | Yes |
+| OxCB Helios | RP2040 ||     |     | Yes |
+| Frood | RP2040 |      |     |     | Yes |
+| ProMicro 2040 | RP2040 ||   |     | Yes |
