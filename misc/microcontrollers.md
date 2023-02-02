@@ -23,3 +23,5 @@
 | Alvaro | AVR |        |     |     | Yes |
 | bluemicro | NRF |     |     |     | Yes |
 | PillBug | NRF |       |     |     | No |
+| Sea-Picro | RP2040 |  |     |     | Yes |
+| Liatris | RP2040 |    |     |     | Yes |
