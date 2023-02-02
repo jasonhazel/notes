@@ -16,3 +16,11 @@
 | OxCB Helios | RP2040 ||     |     | Yes |
 | Frood | RP2040 |      |     |     | Yes |
 | ProMicro 2040 | RP2040 ||   |     | Yes |
+| Goldfish | AVR |      |     |     | Yes |
+| Puchi-C | AVR |       |     |     | Yes |
+| Puch-C Wireless | NRF |     |     | Yes |
+| Pi Pico | RP2040 |    |     |     | No |
+| nrfMicro | NRF |      |     |     | Yes |
+| Alvaro | AVR |        |     |     | Yes |
+| bluemicro | NRF |     |     |     | Yes |
+| PillBug | NRF |       |     |     | No |
